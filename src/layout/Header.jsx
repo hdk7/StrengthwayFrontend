@@ -17,7 +17,7 @@ import {
   BellRing,
 } from "lucide-react";
 import { toast } from "sonner";
-import Avatar from "@/components/ui/Avatar";
+import Avatar from "@/components/ui/avatar";
 import { getCurrentUser } from "@/auth/currentUser";
 import { useTheme } from "@/hooks/theme";
 import { useClickOutside } from "@/hooks/useClickOutside";
